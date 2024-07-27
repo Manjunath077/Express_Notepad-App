@@ -1,0 +1,1 @@
+Recent updates in the mongodb database has an issue of creating the collections in specific data type
